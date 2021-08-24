@@ -1,11 +1,25 @@
-# PayMeBack
-신용카드 사용자 연체 예측 AI 실습 💳
+# 신용카드 사용자 연체 예측 AI 실습 💳
+
+![img](img/img1.png)
+
+<br>
+
+## 🗒️ Contributors
+| Name         | Link                           | Descript                           |
+| :---------:   |  :-------------------:        |  :---------: |
+| 최병휘        | [[2조]최병휘_5주차.ipynb]()     |   |
+| 전지은        | [[2조]전지은_5주차.ipynb](https://github.com/AIFFEL-GN-2nd/PayMeBack/blob/main/1%EC%A3%BC%EC%B0%A8/%5B2%EC%A1%B0%5D%EC%A0%84%EC%A7%80%EC%9D%80_5%EC%A3%BC%EC%B0%A8.ipynb)     |  |
+| 손한성        | [[2조]손한성_5주차.ipynb]()     |  |
+| 신예린        | [[2조]신예린_5주차.ipynb](https://github.com/AIFFEL-GN-2nd/PayMeBack/blob/main/1%EC%A3%BC%EC%B0%A8/%5B2%EC%A1%B0%5D%EC%8B%A0%EC%98%88%EB%A6%B0_5%EC%A3%BC%EC%B0%A8.ipynb)     |  |
+| 이서윤        | [[2조]이서윤_5주차.ipynb]()     |  |
+| 안형준        | [[2조]안형준_5주차.ipynb](https://github.com/AIFFEL-GN-2nd/PayMeBack/blob/main/1%EC%A3%BC%EC%B0%A8/%5B2%EC%A1%B0%5D%EC%95%88%ED%98%95%EC%A4%80_5%EC%A3%BC%EC%B0%A8.ipynb)     |  |
+| 최혜림        | [[2조]최혜림_5주차.ipynb](https://github.com/AIFFEL-GN-2nd/PayMeBack/blob/main/1%EC%A3%BC%EC%B0%A8/%5B2%EC%A1%B0%5D%EC%B5%9C%ED%98%9C%EB%A6%BC_5%EC%A3%BC%EC%B0%A8.ipynb)     |  |
+| 박기민        | [[2조]박기민_5주차.ipynb](https://github.com/AIFFEL-GN-2nd/PayMeBack/blob/main/1%EC%A3%BC%EC%B0%A8/%5B2%EC%A1%B0%5D%EB%B0%95%EA%B8%B0%EB%AF%BC_5%EC%A3%BC%EC%B0%A8.ipynb)     |  |
 
 <br>
 
 ## 🗒️ Content
 
----
 
 ### □ **데이터 정보**
 
@@ -51,7 +65,7 @@
 
 ## 🗒️ Overview
 
-<br>
+
 
 ### □ Purpose
 
